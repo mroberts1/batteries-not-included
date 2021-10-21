@@ -1,9 +1,9 @@
 # Setup
-title: ecstatic
+title: fungible
 tagline: new digital ecosystems
 url: https://getpoole.com
 paginate: 1
-baseurl: "/ecstatic"
+baseurl: "/fungible"
 permalink: pretty
 
 # Gems
