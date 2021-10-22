@@ -2,7 +2,6 @@
 layout: post
 title: Networked publics
 ---
-<img src="{{ site.baseurl }}/assets/weird-ecologies.gif">
 
 # Social platforms
 [Mastodon](https://joinmastodon.org/)   
