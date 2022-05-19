@@ -1,9 +1,9 @@
 # Setup
-title: some assembly required
-tagline: "look mom no javascript"
+title: unproductive
+tagline: "busy doing nothing"
 url: https://getpoole.com
 paginate: 1
-baseurl: "/fungible"
+baseurl: "/unproductive"
 permalink: pretty
 
 # Gems

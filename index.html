@@ -2,15 +2,16 @@
 layout: default
 title: Home
 ---
-<div><img src="{{ site.baseurl }}/assets/catjam.gif"></div><br />
+<br />
+<br />
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ post.url | relative_url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h2>
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
