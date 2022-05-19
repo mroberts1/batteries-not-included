@@ -1,9 +1,9 @@
 # Setup
-title: some assembly required
+title: batteries not included
 tagline: "look mom no javascript"
 url: https://getpoole.com
-paginate: 1
-baseurl: "/fungible"
+paginate: 3
+baseurl: "/batteries-not-included"
 permalink: pretty
 
 # Gems
